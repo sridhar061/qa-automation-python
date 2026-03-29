@@ -1,4 +1,3 @@
-# qa-automation-python
 # QA Automation with Python
 
 This repository contains my learning and hands-on projects in API Testing and QA Automation using Python.
